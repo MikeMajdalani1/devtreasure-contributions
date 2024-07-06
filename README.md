@@ -24,8 +24,8 @@ Thank you for considering contributing to our devtreasure.com contribution train
      ```
 
 4. **Add Your Message:**
-   - Open the `messages.txt` file in your preferred text editor.
-   - Add your message to the file. Make sure to follow the format:
+   - Open the `readme.md` file in your preferred text editor.
+   - Add your message to the end of the file. Make sure to follow the format:
      ```
      My name is [Your Name] and I am here to get my treasure!
      ```
@@ -33,7 +33,7 @@ Thank you for considering contributing to our devtreasure.com contribution train
 5. **Commit Your Changes:**
    - Stage your changes:
      ```bash
-     git add messages.txt
+     git add .
      ```
    - Commit your changes with a meaningful message:
      ```bash
