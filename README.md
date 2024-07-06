@@ -16,7 +16,7 @@ Thank you for considering contributing to our devtreasure.com contribution train
 3. **Create a New Branch:**
    - Navigate to the repository directory:
      ```bash
-     cd training-messages-repo
+     cd devtreasure-contributions
      ```
    - Create a new branch for your contribution:
      ```bash
@@ -50,10 +50,7 @@ Thank you for considering contributing to our devtreasure.com contribution train
    - Go to the original repository on GitHub and click on the 'New Pull Request' button.
    - Select your branch and create a pull request with a description of your changes.
 
-## Example Message
 
-Please use the following example for your message:
+## Contributions
 
 My name is Mike and I am here to get my treasure!
-
-Thank you for your contribution! Your help is greatly appreciated.
