@@ -29,7 +29,7 @@ Thank you for considering contributing to our devtreasure.com contribution train
      ```
      My name is [Your Name] and I am here to get my treasure!
      ```
-   - Add a '-' next to the phrase to make it a list entry 
+   Note: Add a '-' before you write your phrase for it to be a list entry 
 
 5. **Commit Your Changes:**
    - Stage your changes:
